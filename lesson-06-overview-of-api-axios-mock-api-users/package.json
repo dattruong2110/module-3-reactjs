@@ -1,0 +1,22 @@
+{
+  "name": "lesson-06-overview-of-api-axios-mock-api-users",
+  "version": "1.0.0",
+  "description": "Mock API for user list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mock",
+    "API",
+    "Connect",
+    "API"
+  ],
+  "author": "Dat Truong",
+  "license": "ISC",
+  "dependencies": {
+    "connect-api-mocker": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
